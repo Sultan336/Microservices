@@ -1,0 +1,18 @@
+Overview:
+Technology in this modern era is consuming resources(smartphones, laptops,smart gadgets), at an alarming rate. as with the rising
+complexity of software development, new applications being developed every day along with additional features being integrated into them.
+It is necessary that thses 'resources' should be used in an efficient manner.
+Tech giants (google, anazom, microsoft, facebook..) are getting creative with there software deployment techniques.
+There are many ways a software can be depolyed and each way has it's own ups and downs. One popular technique is Microservices.
+
+What is Micro-Services?
+
+As the name suggests, it is the deployment of a large chunk of software into smaller pieces.
+In other words it's a small application that can be:
+
+1) Deployed independently 
+2) Scaled independently
+3) Tested independently 
+4) Has a single responsibility
+
+
