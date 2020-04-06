@@ -13,6 +13,8 @@ In other words it's a small application that can be:
 1) Deployed independently 
 2) Scaled independently
 3) Tested independently 
-4) Has a single responsibility
+4) Has a single responsibility [1]
 
 
+References:
+[1] https://www.computer.org/csdl/magazine/so/2015/01/mso2015010116/13rRUxBJhDX
