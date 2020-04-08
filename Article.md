@@ -1,9 +1,9 @@
 # Overview:
 Technology in this modern era is consuming resources(smartphones, laptops,smart gadgets), at an alarming rate. As with the rising complexity of software development, new applications being developed every day along with additional features being integrated into them. It is necessary that thses 'resources' should be used in an efficient manner.
 
-## So, what do i mean by the tearm 'resources'?
+## So, what do i mean by the term 'resources'?
 
-well, a lot applications run a a backend server which is often called the "cloud".There are several advantages in embracing the cloud, but in essence they typically fall in two categories: either operational (flexibility / speed) or economical (costs) reasons.[2]
+well, a lot applications run at a backend server which is often called the "cloud".There are several advantages in embracing the cloud, but in essence they typically fall in two categories: either operational (flexibility / speed) or economical (costs) reasons.[1](https://isiarticles.com/bundles/Article/pre/pdf/116547.pdf)
 
 Tech giants (twitter, anazom, netflix, e-bay..) are getting creative with there software deployment techniques.
 There are many ways a software can be depolyed and each way has it's own ups and downs. One popular technique is Microservices or the microservices architecture.
@@ -20,7 +20,7 @@ __In other words it's a small application that can be:__
 1. Scaled independently 
 2. Tested independently
 3. Deployed independently 
-4. Has a single responsibility [1]
+4. Has a single responsibility [1](https://www.computer.org/csdl/magazine/so/2015/01/mso2015010116/13rRUxBJhDX)
 
 ## Are mocroservices important?
 
@@ -50,6 +50,4 @@ __The Microservice architecture overcomes the monolithic architecture in the fol
 
 __References:__
 
-1) https://www.computer.org/csdl/magazine/so/2015/01/mso2015010116/13rRUxBJhDX  [1]
-2) https://isiarticles.com/bundles/Article/pre/pdf/116547.pdf                   [2]
-3) https://marutitech.com/microservices-architecture-in-2019/
+1) https://marutitech.com/microservices-architecture-in-2019/
