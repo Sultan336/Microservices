@@ -5,7 +5,7 @@ Technology in this modern era is consuming resources(smartphones, laptops,smart 
 
 well, a lot applications run at a backend server which is often called the "cloud".There are several advantages in embracing the cloud, but in essence they typically fall in two categories: either operational (flexibility / speed) or economical (costs) reasons.[1](https://isiarticles.com/bundles/Article/pre/pdf/116547.pdf)
 
-Tech giants (twitter, anazom, netflix, e-bay..) are getting creative with there software deployment techniques.
+Tech giants (anazom, netflix, e-bay..) are getting creative with there software deployment techniques.
 There are many ways a software can be depolyed and each way has it's own ups and downs. One popular technique is Microservices or the microservices architecture.
 
 ![Microservices](https://jpadesign.in/blog/wp-content/uploads/2019/02/MICROSERVICES.jpg)
