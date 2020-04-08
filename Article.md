@@ -1,4 +1,4 @@
-# Overview:
+# Overview
 Technology in this modern era is consuming resources(smartphones, laptops,smart gadgets), at an alarming rate. As with the rising complexity of software development, new applications being developed every day along with additional features being integrated into them. It is necessary that thses 'resources' should be used in an efficient manner.
 
 ## So, what do i mean by the term 'resources'?
@@ -15,19 +15,19 @@ There are many ways a software can be depolyed and each way has it's own ups and
 As the name suggests,It is the development of a large chunk of software (i.e. Service) into smaller pieces.
 So that each service can then be tweaked, developed, and deployed on it's own.  
 
-__In other words it's a small application that can be:__
+__In other words it's a small application that can be__
 
 1. Scaled independently 
 2. Tested independently
 3. Deployed independently 
-4. Has a single responsibility [1](https://www.computer.org/csdl/magazine/so/2015/01/mso2015010116/13rRUxBJhDX)
+4. Has a single responsibility [2](https://www.computer.org/csdl/magazine/so/2015/01/mso2015010116/13rRUxBJhDX)
 
 ## Are mocroservices important?
 
 Well, it depends on the complexity of an application. As the higher the complexity higher the likehood that it will
 be developed using Microservices.
 
-__Before microservices, monolithic was the was to go, However it lacked in the following ways:__
+__Before microservices, monolithic was the was to go, However it lacked in the following ways__
 
 1) Lack of flexibility (i.e. Build using a single technology)
 2) Unreliability       (i.e. Whole system collapses due to the failure of a single unit)
@@ -37,7 +37,7 @@ __Before microservices, monolithic was the was to go, However it lacked in the f
 
 ## How is Microservices better than the monolithic architecture?
 
-__The Microservice architecture overcomes the monolithic architecture in the following ways:__
+__The Microservice architecture overcomes the monolithic architecture in the following ways__
 
 1) Multiple components
 2) Logical Functionality Boundries 
@@ -46,8 +46,16 @@ __The Microservice architecture overcomes the monolithic architecture in the fol
 5) Fail-proof
 6) Evolutionary
 
+## Examples of microservices ##
+
+1) __Netflix__ has a widespread architecture that has evolved from monolithic to SOA.  It receives more than one billion calls every day, from more than 800 different types of devices, to its streaming-video API.  Each API call then prompts around five additional calls to the backend service.
+
+2) __Amazon__ has also migrated to microservices.  They get countless calls from a variety of applications—including applications that manage the web service API as well as the website itself—which would have been simply impossible for their old, two-tiered architecture to handle.
+
+3) The auction site __eBay__ is yet another example that has gone through the same transition.  Their core application comprises several autonomous applications, with each one executing the business logic for different function areas.
 
 
 __References:__
 
 1) https://marutitech.com/microservices-architecture-in-2019/
+2) https://smartbear.com/solutions/microservices/
