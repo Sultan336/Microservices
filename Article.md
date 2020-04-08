@@ -3,7 +3,7 @@ Technology in this modern era is consuming resources(smartphones, laptops,smart 
 complexity of software development, new applications being developed every day along with additional features being integrated into them.
 It is necessary that thses 'resources' should be used in an efficient manner.
 
-So, what do i mean by the tearm 'resources'?
+###### So, what do i mean by the tearm 'resources'?
 
 well, a lot applications run a a backend server which is often called the "cloud".There are several advantages in embracing the cloud, but
 in essence they typically fall in two categories: either operational (flexibility / speed) or economical (costs) reasons.[2]
@@ -11,17 +11,19 @@ in essence they typically fall in two categories: either operational (flexibilit
 Tech giants (twitter, anazom, netflix, e-bay..) are getting creative with there software deployment techniques.
 There are many ways a software can be depolyed and each way has it's own ups and downs. One popular technique is Microservices or microservices architecture.
 
-What are Micro-Services?
+![Microservices](https://jpadesign.in/blog/wp-content/uploads/2019/02/MICROSERVICES.jpg)
+
+###### What are Micro-Services?
 
 As the name suggests,It is the development of a large chunk of software (i.e. Service) into smaller pieces.
 So that each service can then be tweaked, developed, and deployed on it's own.  
 
 In other words it's a small application that can be:
 
-1) Scaled independently 
-2) Tested independently
-3) Deployed independently 
-4) Has a single responsibility [1]
+1. Scaled independently 
+2. Tested independently
+3. Deployed independently 
+4. Has a single responsibility [1]
 
 Are mocroservices important?
 
