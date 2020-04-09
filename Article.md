@@ -56,11 +56,11 @@ __The Microservice architecture overcomes the monolithic architecture in the fol
 
 ## When to use Microservices ? ##
 
-1) Where Dcentrallzation core aspect from the beginning of any project
-2) The application of intrest will be subjected to high volumes of internet traffic
-3) Where long-term benefits are preferred over short-term benefits
-4) Haveing the right set of resources to design, develop, and deploy applications
-5) Organizations and teams must be commited to using cutting edge technologies
+1) Where __Dcentrallzation__ is the  core aspect from the beginning of any project
+2) The application of intrest will be subjected to __high volumes of internet traffic__
+3) Where __long-term benefits__ are preferred over __short-term benefits__
+4) Haveing the right set of resources to __design__, __develop__, and _deploy__ applications
+5) Organizations and teams must be commited to __using cutting edge technologies__
 
 __References:__
 
