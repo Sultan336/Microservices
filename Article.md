@@ -54,6 +54,13 @@ __The Microservice architecture overcomes the monolithic architecture in the fol
 
 3) The auction site __eBay__ is yet another example that has gone through the same transition.  Their core application comprises several autonomous applications, with each one executing the business logic for different function areas.
 
+## When to use Microservices ? ##
+
+1) Where Dcentrallzation core aspect from the beginning of any project
+2) The application of intrest will be subjected to high volumes of internet traffic
+3) Where long-term benefits are preferred over short-term benefits
+4) Haveing the right set of resources to design, develop, and deploy applications
+5) Organizations and teams must be commited to using cutting edge technologies
 
 __References:__
 
