@@ -10,7 +10,7 @@ There are many ways a software can be depolyed and each way has it's own ups and
 
 ![Microservices](https://jpadesign.in/blog/wp-content/uploads/2019/02/MICROSERVICES.jpg)
 
-## What are Micro-Services?
+## What are micro-Services?
 
 As the name suggests,It is the development of a large chunk of software (i.e. Service) into smaller pieces.
 So that each service can then be tweaked, developed, and deployed on it's own.  
@@ -35,7 +35,7 @@ __Before microservices, monolithic was the was to go, However it lacked in the f
 4) Interdependency     (i.e. Developers lackd independence)
 5) Development pace    (i.e. Development of an application takes a lot of time) 
 
-## How is Microservices better than the monolithic architecture?
+## How is microservices better than the monolithic architecture?
 
 __The Microservice architecture overcomes the monolithic architecture in the following ways__
 
@@ -54,13 +54,19 @@ __The Microservice architecture overcomes the monolithic architecture in the fol
 
 3) The auction site __eBay__ is yet another example that has gone through the same transition.  Their core application comprises several autonomous applications, with each one executing the business logic for different function areas.
 
-## When to use Microservices ? ##
+## When to use microservices ? ##
 
 1) Where __Dcentrallzation__ is the  core aspect from the beginning of any project
 2) The application of intrest will be subjected to __high volumes of internet traffic__
 3) Where __long-term benefits__ are preferred over __short-term benefits__
 4) Haveing the right set of resources to __design__, __develop__, and _deploy__ applications
 5) Organizations and teams must be commited to __using cutting edge technologies__
+
+## The bottom line ##
+
+The microservice architecture isn't a new concept. The availability of the latest tools and technologies, the frustration of not getting the expected results with any other architecture, the massive adoption of Aglie and DevOps, and many other reasons have compiled on top of one another, leading to the surge in it's popularity.
+
+We will contiune to see it growing to a level where software engineers will be making use of monolith for __only prototyping__. When it comes to deployment, why wouldn’t you choose a more modular, high performing as well as easy process to scale applications/systems?
 
 __References:__
 
